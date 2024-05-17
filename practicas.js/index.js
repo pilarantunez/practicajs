@@ -1,3 +1,6 @@
+
+//PRACTICA FUNCIONES
+
 /*/1*/
 function rectangulo(altura, ancho) {
   return altura * ancho;
