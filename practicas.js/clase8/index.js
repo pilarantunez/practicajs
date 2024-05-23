@@ -307,18 +307,15 @@ let got = [
       ciudad: "Casterly Rock"
   }
 ]
-/*/
-for (let 1=0; i<got.length; i++){
-  let persona=got[i];
-  console.log('Hola ${persona.nombre} ${persona.apellido}criatura viajera!');
-  console.log('soy ${persona.nombre} ${persona.apellido de la ciudad}');
-}
-/*/
 for (let i = 0; i < got.length; i++) {
   let persona = got[i];
   console.log(`Hola ${persona.nombre} ${persona.apellido} criatura viajera!`);
   console.log(`Soy ${persona.nombre} ${persona.apellido} de la ciudad ${persona.ciudad}`);
 }
+
+
+
+
 
 
 
