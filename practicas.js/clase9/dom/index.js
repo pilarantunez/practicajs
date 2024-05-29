@@ -26,5 +26,9 @@ prompt(nombre1)
 let edad = "cuantos anios tenes?";
 prompt(edad)
 if (edad >=17){
+    container.style.display="none";
     
+}else{
+
 }
+
