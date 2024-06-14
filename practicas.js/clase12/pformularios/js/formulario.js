@@ -18,7 +18,7 @@ formulario.addEventListener('submit', function(event) {
         todotrue=false
 
     }
-    if (telefono.value ==''){z
+    if (telefono.value ==''){
         todotrue=false
     } 
         else if (telefono.value.lenght<8);
